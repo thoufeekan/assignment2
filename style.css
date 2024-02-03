@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.just{
+    background-color: rgba(250, 235, 215, 0.514);
+}
+.container{
+    justify-content: center;
+    display: flex;
+    
+}
+.first
+{
+    width: 500px;
+}

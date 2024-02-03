@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.size
+{
+    height: 400px;
+}
+.btn
+{
+    margin-left: 60px;
+}
